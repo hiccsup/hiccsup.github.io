@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hiccsup.github.io</id>
     <title>hiccsup</title>
-    <updated>2020-06-04T15:03:38.848Z</updated>
+    <updated>2020-06-04T15:08:01.783Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hiccsup.github.io"/>
     <link rel="self" href="https://hiccsup.github.io/atom.xml"/>
@@ -10,21 +10,4 @@
     <logo>https://hiccsup.github.io/images/avatar.png</logo>
     <icon>https://hiccsup.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, hiccsup</rights>
-    <entry>
-        <title type="html"><![CDATA[Web with Flask]]></title>
-        <id>https://hiccsup.github.io/post/web-with-flask/</id>
-        <link href="https://hiccsup.github.io/post/web-with-flask/">
-        </link>
-        <updated>2020-06-04T14:52:24.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="几个需要安装的关键">几个需要安装的关键</h2>
-<h3 id="python-安装">python 安装</h3>
-<p>这是作为解释器存在的，flask毕竟只是python的一个web框架</p>
-<h3 id="flask-安装">flask 安装</h3>
-<p>可以使用pycharm代劳，会被安装得很全面。</p>
-<h3 id="其他pip插件">其他pip插件</h3>
-<p>一些小插件，用于避免重复造轮子，其中的方法可以在flask中直接引用，比如itsdangerous</p>
-<h2 id="数据思路">数据思路</h2>
-<h2 id="card-待定功能">card 待定功能</h2>
-]]></content>
-    </entry>
 </feed>
